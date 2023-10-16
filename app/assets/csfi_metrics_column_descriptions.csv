@@ -1,0 +1,368 @@
+col,desc_only,source
+QUES_PERIOD_END,,
+GC_ORG_NUMBER,,
+S_PTNR_OVERALL_SCORE,Average of the 5 general survey averages. , CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_SRVC_OVERALL,"Service Survey score for ""Overall"". ", CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_SRVC_AVG,"Average of all service survey scores except for ""Overall"". ", CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_SRVC_MEDIAN,"Median of all service survey scores except for ""Overall"". ", CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_TIMELY_QUES_1,"""Overall, I am satisfied with the number of days it took to receive SSC services."" ", CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_TIMELY_QUES_2,"""When I have a specific problem or issue, SSC resolves it in a timely fashion."" ", CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_TIMELY_QUES_3,"""When there is an unplanned outage or emergency, SSC addresses and resolves it in a timely manner."" ", CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_TIMELY_AVG_SCORE,"Average of general survey ""Timeliness"" questions. ", CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_EASE_OF_ACCESS_QUES_1,"""SSC service information is readily available."" ", CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_EASE_OF_ACCESS_QUES_2,"""I am able to have my service needs addressed through engagement with my SSC Account Team."" ", CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_EASE_OF_ACCESS_QUES_3,"""When I have a problem, I understand how to engage SSC to resolve the problem."" ", CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_EASE_OF_ACCESS_AVG_SCORE,"Average of general survey ""Ease of Access"" questions. ", CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_POSTV_OUTCM_QUES_1,"""Overall, I was satisfied with the SSC services I received."" ", CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_POSTV_OUTCM_QUES_2,"""Overall, I was satisfied with the SSC resolving issues"" ", CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_POSTV_OUTCM_AVG_SCORE,"Average of general survey ""Positive outcome"" questions. ", CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_PRCS_QUES_1,"""The process to receive/obtain SSC services is easy to use."" ", CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_PRCS_QUES_2,"""When I have a problem or service delivery issue, SSC keeps me and my department up to date on the resolution."" ", CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_PRCS_QUES_3,"""Regular partnership meetings and bilateral governance (i.e. CIO Council, CIO Forum, etc.) work effectively."" ", CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_PRCS_QUES_4,"""SSC effectively communicates important information to me."" ", CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_PRCS_AVG_SCORE,"Average of general survey ""Process"" questions. ", CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_ENGMT_QUES_1,"""My SSC Account Team manages the relationship effectively."" ", CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_ENGMT_QUES_2,"""My SSC Account Team understands my business needs and priorities."" ", CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_ENGMT_QUES_3,"""My SSC Account Team is an effective advocate within SSC."" ", CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_ENGMT_QUES_4,"""My SSC Account Team goes the extra mile to make sure I get what I need."" ", CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_ENGMT_QUES_5,"""Overall, I am treated fairly by my SSC Account Team."" ", CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_ENGMT_AVG_SCORE,"Average of general survey ""Engagement"" questions. ", CURATED.SRVC_DLVRY_GENERAL_SATSFN
+S_CABLING,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_CLOUD_BROKERING_SERVICES,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_CONTACT_CENTRE,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_DCC-M365_INTEGRATION,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_DCC-M365_USER_EXPERIENCE,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_DATABASE,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_EMAIL,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_EXTERNAL_CREDENTIAL_MANAGEMENT,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_FIXED_LINE,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_GC_LAN,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_GC_WAN,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_GC_WI-FI,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_GCSI,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_HARDWARE_PROVISIONING,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_HIGH-PERFORMANCE_COMPUTING,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_IT_CONTINUITY,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_INTERNET,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_MAINFRAME,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_MIDDLEWARE,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_MIDRANGE,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_MIDRANGE-LINUX/UNIX,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_MIDRANGE-WINDOWS,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_MOBILE_DEVICES,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_PRINTING,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_SATELLITE,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_SECURE_REMOTE_ACCESS,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_SOFTWARE_PROVISIONING,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_SOLUTION_INTEGRATION_SERVICE,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_STORAGE,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_AUDIO_CONFERENCING,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_TOLL-FREE_VOICE,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_VIDEOCONFERENCING,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_WEB_CONFERENCING,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+S_MYKEY,Service Survey score for a particular service. , CURATED.SRVC_DLVRY_SERVICE_SATSFN
+M_MCL_num_Physical_Linux_OSIs,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_Physical_Linux_and_Unix_OSIs,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_Physical_Unix_OSIs,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_TB_of_near_line_storage_in_Big_Data_Repository_HPC_service_offering_on_Enterprise_infrastructure,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_TB_of_near_line_storage_in_Big_Data_Repository_HPC_service_offering_on_Legacy_infrastructure,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_TB_of_on_line_storage_in_Big_Data_Repository_HPC_service_offering_on_Enterprise_infrastructure,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_TB_of_on_line_storage_in_Big_Data_Repository_HPC_service_offering_on_Legacy_infrastructure,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_Virtual_Linux_OSIs,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_Virtual_Linux_and_Unix_OSIs,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_Virtual_Unix_OSIs,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_cores_of_Extreme_Computing_HPC_service_offering_on_Enterprise_infrastructure,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_cores_of_Extreme_Computing_HPC_service_offering_on_Legacy_infrastructure,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_BB_devices,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_BBS_activated_ETI_BES_,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_Cell_Phones,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_Centrex_Lines,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_I_Phones,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_IBM_Mainframe_Computers,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_LPARs,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_Mailboxes_Migrated_Current_Month_Accumulated_Total_to_date_,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_Mikes,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_Mobile_Modems,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_Other_mobile_devices_not_already_reported,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_PBXs,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_PDAs,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_Physical_ESX_HyperV_and_Other,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_Physical_Windows_OSIs,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_Smart_Phones,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_Tablets,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_Total_WAN_Circuits,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_Total_WAN_Circuits_for_Stream_1,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_UNISYS_Mainframe_Computers,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_Unsupported_Linux_OSIs,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_Unsupported_Linux_and_Unix_OSIs,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_Unsupported_Unix_OSIs,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_Unsupported_Windows_OSIs,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_VoIP_Phones_Deployed,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_WAN_circuits_Transformed,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_WAN_circuits_Transformed_for_GCNet_Stream_1,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_Webex_Accounts,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_YES_Steady_State_Email_accounts,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_active_Enterprise_Connections,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_active_LIAS_Connections,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_contact_centre_agents_migrated_to_HCCS_Service,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_impressions,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_insertions,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_non_contracted_LIAS_connections,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_toll_free_minutes,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_num_of_virtual_Windows_OSIs,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_percent_of_time_Contact_Centre_Services_are_available,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_percent_of_time_Remote_Access_Services_are_available,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Available_Linux_MIPS,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Available_z_OS_MIPS,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Backup_On_Tape_TB_,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Backup_Online_Storage_Provisioned_TB_,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Cabling_Business_Requests,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Consultation_Plans,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Cumulative_number_of_Data_Centres_Closed,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_DB_instances,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Data_Centres_Planned_for_Closure,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Data_Only_Plan,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Days_of_SISD_Service_Provided,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_E3_SSC_Funded,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Fixed_Satellite_Sites,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_GCSI_num_of_accounts,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_GSCI_num_of_gateways,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_GSCI_num_of_servers,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Hardware_Provisioning_Transactions,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_MIPS_Unisys,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_MTRS_L_Exceptions,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_MTRS_R_Exceptions,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Middleware_Applications_Supported,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Mobile_Satellite_Devices,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Online_Configured_Usable_Storage_TB_,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Online_Storage_Provisioned_TB_,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Other,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Square_Footage,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Suspension,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Audio_Conference_Minutes,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_VC_End_Point_Minutes_per_month,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_VC_Hardware_End_Point_accumlated_Total_to_date_,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_VC_Software_End_Point_accumlated_Total_to_date_,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Total_number_of_wireless_Access_Points_cumulative_,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Used_Linux_MIPS_Average_,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Used_z_OS_MIPS_Average_,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_VPN_tunnels,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Voice_and_Text_Plan,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_Voice_Text_and_Data_Plan,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_myKey_Accounts,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_z_Linux_Contractual_MIPS,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_MCL_z_OS_Contractual_MIPS,MCL metric averaged over survey period. , CURATED.SRVC_PERF_METRICS
+M_BITS_Assessment,"Number of BRs in this cycle time phase on a particular day, summed over survey period. (BR days)", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_Agreement_Customer,"Number of BRs in this cycle time phase on a particular day, summed over survey period. (BR days)", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_Agreement_SSC,"Number of BRs in this cycle time phase on a particular day, summed over survey period. (BR days)", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_Design,"Number of BRs in this cycle time phase on a particular day, summed over survey period. (BR days)", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_Implementation,"Number of BRs in this cycle time phase on a particular day, summed over survey period. (BR days)", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_In_Service,"Number of BRs in this cycle time phase on a particular day, summed over survey period. (BR days)", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_Other,"Number of BRs in this cycle time phase on a particular day, summed over survey period. (BR days)", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_Total_BR_days,BR days for all cycle time phases in this survey period., LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_Total_BR_days_in_progress,"BR days for all cycle time phases except ""Other"" or ""In Service"" in this survey period.", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_p_Assessment,"Proportion (BR days in this cycle time phase) / (BR days for all cycle time phases except ""Other"" or ""In Service"") in this survey period.", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_p_Agreement_Customer,"Proportion (BR days in this cycle time phase) / (BR days for all cycle time phases except ""Other"" or ""In Service"") in this survey period.", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_p_Agreement_SSC,"Proportion (BR days in this cycle time phase) / (BR days for all cycle time phases except ""Other"" or ""In Service"") in this survey period.", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_p_Design,"Proportion (BR days in this cycle time phase) / (BR days for all cycle time phases except ""Other"" or ""In Service"") in this survey period.", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_p_Implementation,"Proportion (BR days in this cycle time phase) / (BR days for all cycle time phases except ""Other"" or ""In Service"") in this survey period.", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_p_In_Service,"Proportion (BR days for ""In-Service"" cycle time phase) / (BR days for all cycle time phases) in this survey period.", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_median_Assessment,"Median number of days per 6 month survey period that an in-progress BR (excludes ""In Service"" and ""Other"") spends in this cycle time phase. ", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_median_Agreement_Customer,"Median number of days per 6 month survey period that an in-progress BR (excludes ""In Service"" and ""Other"") spends in this cycle time phase. ", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_median_Agreement_SSC,"Median number of days per 6 month survey period that an in-progress BR (excludes ""In Service"" and ""Other"") spends in this cycle time phase. ", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_median_Design,"Median number of days per 6 month survey period that an in-progress BR (excludes ""In Service"" and ""Other"") spends in this cycle time phase. ", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_median_Implementation,"Median number of days per 6 month survey period that an in-progress BR (excludes ""In Service"" and ""Other"") spends in this cycle time phase. ", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_avg_Assessment,"Average proportion over the survey period that an in-progress BR (excludes ""In Service"" and ""Other"") spends in this cycle time phase. ", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_avg_Agreement_Customer,"Average proportion over the survey period that an in-progress BR (excludes ""In Service"" and ""Other"") spends in this cycle time phase. ", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_avg_Agreement_SSC,"Average proportion over the survey period that an in-progress BR (excludes ""In Service"" and ""Other"") spends in this cycle time phase. ", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_avg_Design,"Average proportion over the survey period that an in-progress BR (excludes ""In Service"" and ""Other"") spends in this cycle time phase. ", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_avg_Implementation,"Average proportion over the survey period that an in-progress BR (excludes ""In Service"" and ""Other"") spends in this cycle time phase. ", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_medianSinceCreated_Assessment,"Median number of days in this cycle time phase (since the BR was created) for BRs in-progress (excluding ""In Service"" and ""Other"") within this survey period. ", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_medianSinceCreated_Agreement_Customer,"Median number of days in this cycle time phase (since the BR was created) for BRs in-progress (excluding ""In Service"" and ""Other"") within this survey period. ", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_medianSinceCreated_Agreement_SSC,"Median number of days in this cycle time phase (since the BR was created) for BRs in-progress (excluding ""In Service"" and ""Other"") within this survey period. ", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_medianSinceCreated_Design,"Median number of days in this cycle time phase (since the BR was created) for BRs in-progress (excluding ""In Service"" and ""Other"") within this survey period. ", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_medianSinceCreated_Implementation,"Median number of days in this cycle time phase (since the BR was created) for BRs in-progress (excluding ""In Service"" and ""Other"") within this survey period. ", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_avgSinceCreated_Assessment,"Average number of days in this cycle time phase (since the BR was created) for BRs in-progress (excluding ""In Service"" and ""Other"") within this survey period. ", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_avgSinceCreated_Agreement_Customer,"Average number of days in this cycle time phase (since the BR was created) for BRs in-progress (excluding ""In Service"" and ""Other"") within this survey period. ", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_avgSinceCreated_Agreement_SSC,"Average number of days in this cycle time phase (since the BR was created) for BRs in-progress (excluding ""In Service"" and ""Other"") within this survey period. ", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_avgSinceCreated_Design,"Average number of days in this cycle time phase (since the BR was created) for BRs in-progress (excluding ""In Service"" and ""Other"") within this survey period. ", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_BITS_avgSinceCreated_Implementation,"Average number of days in this cycle time phase (since the BR was created) for BRs in-progress (excluding ""In Service"" and ""Other"") within this survey period. ", LAKE.DEMAND_BR_BITS_ITEMS and CURATED.DEMAND_BITS_STATUS_HISTORY
+M_ECD_avg_IMPACT,Average impact of ECD ticket over this survey period. , LAKE.DEMAND_ECD_TICKET
+M_ECD_avg_URGENCY,Average urgency of ECD ticket over this survey period. , LAKE.DEMAND_ECD_TICKET
+M_ECD_avg_PRIORITY,Average priority of ECD ticket over this survey period. , LAKE.DEMAND_ECD_TICKET
+M_ECD_INCIDENT,Number of incidents in 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_PROBLEM,Number of problems in 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_SR,Number of Service Requests in 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_APPLM,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_APPR,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_ASSIGNA,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_AWAITCHG,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_AWAITCUS,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_AWAITVEN,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_COMP,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_DRAFT,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_FAIL,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_HISTEDIT,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_INPROG,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_NEW,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_NORESP,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_PENDCHG,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_PENDCUST,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_PENDING,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_PENDINGV,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_PENDPRO,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_PENDREV,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_QUEUED,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_REJECTED,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_RESOLVED,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_SLAHOLD,Number of tickets in this status in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_p_INCIDENT,"Proportion of tickets that have class ""Incident"" over survey period. ", LAKE.DEMAND_ECD_TICKET
+M_ECD_p_PROBLEM,"Proportion of tickets that have class ""Problem"" over survey period. ", LAKE.DEMAND_ECD_TICKET
+M_ECD_p_SR,"Proportion of tickets that have class ""SR"" over survey period. ", LAKE.DEMAND_ECD_TICKET
+M_ECD_TICKETS_OPENED,Number of tickets opened in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_TICKETS_CLOSED,Number of tickets closed in the 6 month survey period (adjusted for survey period length). , LAKE.DEMAND_ECD_TICKET
+M_ECD_avg_ACTUAL_COMPLETION_HRS,Average time to complete an ECD ticket (actual hours), LAKE.DEMAND_ECD_TICKET
+M_ECD_avg_BUSINESS_COMPLETION_HRS,Average time to complete an ECD ticket (business hours), LAKE.DEMAND_ECD_TICKET
+M_ECD_median_ACTUAL_COMPLETION_HRS,Median time to complete an ECD ticket (actual hours), LAKE.DEMAND_ECD_TICKET
+M_ECD_median_BUSINESS_COMPLETION_HRS,Median time to complete an ECD ticket (business hours), LAKE.DEMAND_ECD_TICKET
+M_ECD_p_TICKETS_CLOSED,Num tickets closed / num tickets opened in this survey period., LAKE.DEMAND_ECD_TICKET
+M_EMPL_Average_Age,Average age: demographic data for department at survey date.,Treasury Board website
+M_EMPL_Executive,Number of executives: demographic data for department at survey date.,Treasury Board website
+M_EMPL_Non_Executive,Number of non-executives: demographic data for department at survey date.,Treasury Board website
+M_EMPL_p_Executive,Proportion executives / total employees: demographic data for department at survey date.,Treasury Board website
+M_EMPL_Men,Male employees: demographic data for department at survey date.,Treasury Board website
+M_EMPL_Women,Female employees: demographic data for department at survey date.,Treasury Board website
+M_EMPL_p_Men,Proportion male employees / total employees: demographic data for department at survey date.,Treasury Board website
+M_EMPL_English,First language English employees: demographic data for department at survey date.,Treasury Board website
+M_EMPL_French,First language French employees: demographic data for department at survey date.,Treasury Board website
+M_EMPL_p_English,Proportion first language English / total employees: demographic data for department at survey date.,Treasury Board website
+M_EMPL_AB,Number of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_BC,Number of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_MB,Number of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_NB,Number of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_NCR,Number of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_NFLD,Number of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_NS,Number of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_NU,Number of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_NWT,Number of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_ON_minus_NCR_,Number of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_Outside_of_Canada,Number of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_PEI,Number of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_QC_minus_NCR_,Number of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_SK,Number of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_YK,Number of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_p_AB,Proportion of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_p_BC,Proportion of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_p_MB,Proportion of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_p_NB,Proportion of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_p_NCR,Proportion of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_p_NFLD,Proportion of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_p_NS,Proportion of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_p_ON_minus_NCR_,Proportion of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_p_Outside_of_Canada,Proportion of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_p_PEI,Proportion of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_p_QC_minus_NCR_,Proportion of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_p_SK,Proportion of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_p_YK,Proportion of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_p_NWT,Proportion of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_p_NU,Proportion of employees in this region: demographic data for department at survey date.,Treasury Board website
+M_EMPL_Casual,Number of employees with this employment status: demographic data for department at survey date.,Treasury Board website
+M_EMPL_Indeterminate,Number of employees with this employment status: demographic data for department at survey date.,Treasury Board website
+M_EMPL_Student,Number of employees with this employment status: demographic data for department at survey date.,Treasury Board website
+M_EMPL_Term,Number of employees with this employment status: demographic data for department at survey date.,Treasury Board website
+M_EMPL_p_Casual,Proportion of employees with this employment status: demographic data for department at survey date.,Treasury Board website
+M_EMPL_p_Indeterminate,Proportion of employees with this employment status: demographic data for department at survey date.,Treasury Board website
+M_EMPL_p_Student,Proportion of employees with this employment status: demographic data for department at survey date.,Treasury Board website
+M_EMPL_p_Term,Proportion of employees with this employment status: demographic data for department at survey date.,Treasury Board website
+M_EMPL_Num_Employees,Total number of employees: demographic data for department at survey date.,Treasury Board website
+M_ONYX_IN_INCIDENTS_OPENED,Number of incidents opened in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_ACTUAL_CMPLT_HOURS,Total time to complete ONYX incidents over 6 month period (actual hours),LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_BUS_CMPLT_HOURS,Total time to complete ONYX incidents over 6 month period (business hours),LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_INCIDENTS_CLOSED,Number of incidents closed in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_Critical,Number of critical priority incidents opened in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_High,Number of high priority incidents opened in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_Low,Number of low priority incidents opened in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_Medium,Number of medium priority incidents opened in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_p_Critical,Proportion of incidents which are critical priority in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_p_High,Proportion of incidents which are high priority in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_p_Low,Proportion of incidents which are low priority in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_p_Medium,Proportion of incidents which are medium priority in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_Infrastructure_Event,Number of incidents of this type in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_Infrastructure_Restoration,Number of incidents of this type in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_Security_Incident,Number of incidents of this type in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_User_Service_Request,Number of incidents of this type in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_User_Service_Restoration,Number of incidents of this type in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_p_Infrastructure_Event,Proportion of incidents which are this type in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_p_Infrastructure_Restoration,Proportion of incidents which are this type in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_p_Security_Incident,Proportion of incidents which are this type in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_p_User_Service_Request,Proportion of incidents which are this type in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_p_User_Service_Restoration,Proportion of incidents which are this type in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_Direct_Input,Number of incidents reported by this method in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_Email,Number of incidents reported by this method in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_Other,Number of incidents reported by this method in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_Self_Service,Number of incidents reported by this method in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_Systems_Management,Number of incidents reported by this method in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_Web,Number of incidents reported by this method in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_p_Direct_Input,Proportion of incidents reported by this method in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_p_Email,Proportion of incidents reported by this method in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_p_Other,Proportion of incidents reported by this method in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_p_Self_Service,Proportion of incidents reported by this method in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_p_Systems_Management,Proportion of incidents reported by this method in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_p_Web,Proportion of incidents reported by this method in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_Assigned,Number of incidents which were last in this status in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_Cancelled,Number of incidents which were last in this status in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_Closed,Number of incidents which were last in this status in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_In_Progress,Number of incidents which were last in this status in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_Pending,Number of incidents which were last in this status in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_Resolved,Number of incidents which were last in this status in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_p_Assigned,Proportion of incidents which were last in this status in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_p_Cancelled,Proportion of incidents which were last in this status in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_p_Closed,Proportion of incidents which were last in this status in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_p_In_Progress,Proportion of incidents which were last in this status in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_p_Pending,Proportion of incidents which were last in this status in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_p_Resolved,Proportion of incidents which were last in this status in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_avg_ACTUAL_CMPLT_HOURS,Average time to complete an ONYX incident (actual hours),LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_avg_BUS_CMPLT_HOURS,Average time to complete an ONYX incident (business hours),LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_median_ACTUAL_CMPLT_HOURS,Median time to complete an ONYX incident (actual hours),LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_IN_median_BUS_CMPLT_HOURS,Median time to complete an ONYX incident (business hours),LAKE.DEMAND_ONYX_INCIDENTS
+M_ONYX_SR_opened,Number of ONYX Service Requests in 6 month survey period (adjusted for survey period length). Note: poor quality data source,LAKE.DEMAND_ONYX_SERVICE_REQUESTS
+M_ONYX_WO_Critical,Number of critical priority work orders in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_High,Number of high priority work orders in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_Low,Number of low priority work orders in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_Medium,Number of medium priority work orders in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_p_Critical,Proportion of work orders that are critical priority in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_p_High,Proportion of work orders that are high priority in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_p_Low,Proportion of work orders that are low priority in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_p_Medium,Proportion of work orders that are medium priority in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_Conferencing_Services,Number of work orders of this type in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_Email,Number of work orders of this type in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_Fixed_Line,Number of work orders of this type in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_IT_Service_Management,Number of work orders of this type in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_LAN_Port_Activation,Number of work orders of this type in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_Mobile_Devices,Number of work orders of this type in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_Other_Srvc,Number of work orders of this type in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_Toll_free_Voice,Number of work orders of this type in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_myKey,Number of work orders of this type in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_p_Conferencing_Services,Proportion of work orders that are of this type in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_p_Email,Proportion of work orders that are of this type in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_p_Fixed_Line,Proportion of work orders that are of this type in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_p_IT_Service_Management,Proportion of work orders that are of this type in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_p_LAN_Port_Activation,Proportion of work orders that are of this type in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_p_Mobile_Devices,Proportion of work orders that are of this type in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_p_Other_Srvc,Proportion of work orders that are of this type in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_p_Toll_free_Voice,Proportion of work orders that are of this type in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_p_myKey,Proportion of work orders that are of this type in ONYX over 6 month period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_OPENED,Number of work orders opened in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_ACTUAL_CMPLT_HOURS,Total time to complete all ONYX work orders for a particular department in 6 month survey period (actual hours),LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_BUS_CMPLT_HOURS,Total time to complete all ONYX work orders for a particular department in 6 month survey period (business hours),LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_CLOSED,Number of work orders closed in ONYX over 6 month survey period,LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_avg_ACTUAL_CMPLT_HOURS,Average time to complete an ONYX work order (actual hours),LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_avg_BUS_CMPLT_HOURS,Average time to complete an ONYX work order (business hours),LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_median_ACTUAL_CMPLT_HOURS,Median time to complete an ONYX work order (actual hours),LAKE.DEMAND_ONYX_WORK_ORDER
+M_ONYX_WO_median_BUS_CMPLT_HOURS,Median time to complete an ONYX work order (business hours),LAKE.DEMAND_ONYX_WORK_ORDER
+M_Date_Int,"The date of the survey, represented as an integer. Included here as a confounding variable to demonstrate that correlation does not imply causation. ", Generated
+Note: Normalized and Per Employee Metrics,"Tables ending in _nrml and _perEmpl have their description augmented with descriptions of those transformations. See explanations in callbacks.py:
+explanations = {
+            'nrml': '(Divided by department average over selected survey periods)',
+            'perEmpl': '(Divided by number of employees in department at time of survey)'
+        }",

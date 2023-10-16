@@ -1,0 +1,160 @@
+* {
+    /* font-family: Arial, Helvetica, sans-serif !important; */
+}
+
+#filters {
+    /* height: 60px; */
+    width: 100%;
+}
+
+#year-slider {
+    width: 200px;
+    height: 60px;
+}
+
+h1 {
+    width: calc(100% - 130px);
+}
+
+#left-panel {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    background: white;
+    overflow-y: auto;
+    overflow-x: auto;
+}
+
+#left-panel.rpanel-open {
+    width: calc(100% - 500px);
+}
+
+#right-panel {
+    display: none;
+    width: 0;
+    position: fixed;
+    padding: 10px;
+    top: 0;
+    right: 0;
+    height: 100%;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background: white;
+    border-left: solid 1px rgba(0, 0, 0, 0.1);
+    transition: width 1s ease-in-out;
+}
+
+#right-panel.rpanel-open {
+    width: 500px;
+    display: block;
+}
+
+#collapse-button {
+    position: absolute;
+    top: 15px;
+    right: 10px;
+    width: 120px;
+}
+
+h3 {
+    font-size: medium;
+    font-weight: bold;
+    margin-top: 15px
+}
+
+p {
+    margin-top: 5px;
+}
+
+#metric-details {
+    margin-top: 30px;
+}
+
+input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+#graph-options-checklist {
+    text-align: right;
+    display: inline-block;
+    /* margin-top: 12px; */
+}
+
+#graph-options-checklist label {
+    margin-right: 12px;
+}
+
+#subheader {
+    display: block;
+    font-size: 12pt;
+    font-weight: normal;
+    margin-top: 5px;
+    padding-top: 0;
+    position: relative;
+}
+
+#filters h3:not(:first-child) {
+    margin-top: 15px;
+}
+
+#filters h3:first-child {
+    margin-top: 0;
+}
+
+#filters label {
+    margin-top: 5px;
+    margin-right: 15px;
+}
+
+#right-checklists {
+    /* position: fixed;
+    top: 0;
+    height: 108px;
+    z-index: 2;
+    background: rgba(255,255,255,0.8); */
+    padding: 5px 10px 10px 10px;
+    border-bottom: solid 1px rgba(0, 0, 0, 0.1);
+    /* width: 420px; */
+}
+
+#right-details {
+    /* top: 90px; */
+    position: relative;
+}
+
+#right-checklists>div {
+    display: inline-block;
+    margin-right: 15px;
+    width: 176px;
+}
+
+div#scatter-options-checklist {
+    margin-top: 10px;
+    width: auto;
+}
+
+#scatter-options-checklist label {
+    margin-right: 10px;
+}
+
+h1 img {
+    width: 34px;
+    position: relative;
+    top: -4px;
+    margin-right: 8px;
+    display: none;
+}
+
+#rpanel-close-btn {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+
+#userguide-readmore-button {
+    position: relative;
+    top: 87px;
+}

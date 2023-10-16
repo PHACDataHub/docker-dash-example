@@ -2,6 +2,7 @@ FROM python:3.10
 
 ENV DASH_DEBUG_MODE False
 ENV DASH_REQUESTS_PATHNAME_PREFIX /shiny/dash-example/
+
 COPY ./app /app
 WORKDIR /app
 RUN set -ex && \
